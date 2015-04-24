@@ -25,7 +25,7 @@ OK, enough chatting already! Let's get started!
 2. Put your first number in _Original number_
 3. Put your second number in _New number_
 
-NOTE: Allowed characters are `digits, ., -. e`.
+NOTE: Allowed characters are `digits`, `.`, `-`. `e`.
 
 EXAMPLES: `42.01`. `-12.776`, `8e10`, `5-e2`
 
