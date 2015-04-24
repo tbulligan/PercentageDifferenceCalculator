@@ -13,9 +13,7 @@ But why would I use this app when there are plenty others around, you may say?
 
 I'm glad you asked!
 
-Many similar  apps (I haven't tested them all but _you_ can if you want) round the percentage difference to a set number of decimals.
-
-Others cause hair loss. Believe me, I know.
+Others apps cause hair loss. Believe me, I know.
 
 OK, enough chatting already! Let's get started!
 
