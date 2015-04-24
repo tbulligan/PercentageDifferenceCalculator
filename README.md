@@ -25,6 +25,10 @@ OK, enough chatting already! Let's get started!
 2. Put your first number in _Original number_
 3. Put your second number in _New number_
 
+NOTE: Allowed characters are `digits, ., -. e`.
+
+EXAMPLES: `42.01`. `-12.776`, `8e10`, `5-e2`
+
 That's it!
 
 On the right you will find:
@@ -32,8 +36,9 @@ On the right you will find:
 * The difference between the numbers in digits
 * The percentage difference between the numbers
 
-### Examples
+## Try this!
 
 * By how much did Husain Bolt beat Yohan Blake in the 100m men final at the London 2012 Olympics Games?
+  * Indent
 * How big is the sun compared to Earth?
-* How much older will I be next year?
+* How much older will you be next year?
