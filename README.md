@@ -21,7 +21,7 @@ OK, enough chatting already! Let's get started!
 
 ## How to use
 
-1. Open the app: (https://tbulligan.shinyapps.io/PercentageDifferenceCalculator/)
+1. Open the app: [https://tbulligan.shinyapps.io/PercentageDifferenceCalculator/]
 2. Put your first number in _Original number_
 3. Put your second number in _New number_
 
