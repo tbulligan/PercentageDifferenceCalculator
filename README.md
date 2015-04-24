@@ -27,7 +27,7 @@ OK, enough chatting already! Let's get started!
 
 NOTE: Allowed characters are `digits`, `.`, `-`. `e`.
 
-EXAMPLES: `42.01`. `-12.776`, `8e10`, `5-e2`
+EXAMPLES: `42.01`. `-12.776`, `1.8e10`, `6.5-e2`
 
 That's it!
 
@@ -39,6 +39,7 @@ On the right you will find:
 ## Try this!
 
 * By how much did Husain Bolt beat Yohan Blake in the 100m men final at the London 2012 Olympics Games?
-  * Indent
+  * Times in seconds:  Usain Bolt 9.63, Yohan Blake 9.75
 * How big is the sun compared to Earth?
+  * Volume in km<sup>3</sup>: sun `1.41e18`, Earth `1.08321e12`
 * How much older will you be next year?
