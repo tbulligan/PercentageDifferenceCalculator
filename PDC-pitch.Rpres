@@ -1,0 +1,61 @@
+PDC: Percentage Difference Calculator
+====
+author: Tomaso Bulligan
+date: `r format (Sys.Date(), format="%B %d, %Y")`
+transition: linear
+
+<small>
+You know you always wanted one.
+</small>
+
+
+PDC - Percentage Difference Calculator
+====
+
+PDC takes two numbers and returns the percentage difference between them.
+
+Quick. Easy. Free.
+
+Try it now! 
+
+Go to:
+<a href:"http://tbulligan.shinyapps.io/PercentageDifferenceCalculator/"
+target="_blank">http://tbulligan.shinyapps.io/PercentageDifferenceCalculator/</a>
+
+
+PDC - The looks
+====
+
+![PDC screenshot](./images/pdc-screenshot.png)
+
+
+PDC - The magic
+====
+
+It takes two values...
+```{r}
+x <- 9.63
+y <- 9.75
+```
+
+...returns their difference...
+```{r}
+print(d <- diff(c(x, y)))
+```
+
+...and returns their percentage difference.
+```{r}
+paste0(round(d / x * 100, digits = 2), "%")
+```
+
+
+PDC - Credits
+====
+
+Written with [R](http://www.r-project.org/), a software environment for statistical computing, and [Shiny](http://shiny.rstudio.com/), a web application framework for R.
+
+Kindly hosted by [shinyapps.io](http://www.shinyapps.io)
+
+***
+
+This work of love would not exist without the fantastic [Data Science Specialization](http://www.coursera.org/specialization/jhudatascience/1) offered by [Johns Hopkins University](http://www.jhu.edu/).
