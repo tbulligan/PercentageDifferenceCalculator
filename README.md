@@ -7,7 +7,7 @@ Have you ever needed a quick and easy way to calculate the percentage difference
 
 PercentageDifferenceCalculator... Oh wait, that's horrible! Let's call it PDC.
 
-PDC is a web application that takes two numbers and returns the percentage difference between them.
+**PDC is a web application that takes two numbers and returns the percentage difference between them.**
 
 But why would I use this app when there are plenty others around, you may say?
 
@@ -36,7 +36,7 @@ On the right you will find:
 
 ## Try this!
 
-* By how much did Husain Bolt beat Yohan Blake in the 100m men final at the London 2012 Olympics Games?
+* By how much did Husain Bolt beat Yohan Blake in the 100m men final at the London 2012 Olympic Games?
   * Times in seconds:  Usain Bolt `9.63`, Yohan Blake `9.75`
 * How big is the sun compared to Earth?
   * Volume in km<sup>3</sup>: sun `1.41e18`, Earth `1.08321e12`
